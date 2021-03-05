@@ -8,8 +8,8 @@ Inception-v3 is a convolutional neural network that is 48 layers deep. You can l
 
 Inception v3 is a widely-used image recognition model that has been shown to attain greater than 78.1% accuracy on the ImageNet dataset. The model is the culmination of many ideas developed by multiple researchers over the years.
 
-The complete code for model building is available in both " .ipynb" and " .py" format.
+* The complete code for model building is available in both " .ipynb" and " .py" format.
+As the size of the model is huge, I could not able to upload here. To deploy it just build the model using the "cotton_disease" files.
+* After building the model, deployed it using streamlit.
 
-After building the model, deployed it using streamlit.
-
-Code for deployment is available in "cotton_api.py"
+* Code for deployment is available in "cotton_api.py"
